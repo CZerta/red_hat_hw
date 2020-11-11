@@ -1,11 +1,10 @@
-t_hw
+# red_hat_hw
 This repo contains two scripts that take input and shuffle paragraphs from it.
 
 ## Running
 
 - "python3 rh_python.py" or "chmod +x rh_python.py && ./rh_python.py"
 - "bash rh_bash.sh" or "chmod +x rh_bash.sh && ./rh_bash.sh"
-**Paramet
 
 ## Parameters
 
